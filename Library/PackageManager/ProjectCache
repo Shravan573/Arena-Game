@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637843324266897836
+      ticks: 637843393055890182
     m_Hash: 3267248718
   m_LockFileStatus:
     m_FilePath: D:/github repository/Arena-Game/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637843324266897836
+      ticks: 637843393055890182
     m_Hash: 3615216106
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
