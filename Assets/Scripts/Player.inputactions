@@ -1,0 +1,74 @@
+{
+    "name": "Player",
+    "maps": [
+        {
+            "name": "Playermain",
+            "id": "d08f2628-5870-4e99-a468-c55f24107ba8",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "be4bdd0c-0775-45e2-b328-921948eb95d8",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "pickup",
+                    "type": "Button",
+                    "id": "c75fee1a-043b-4cbc-9de2-7592b79b6480",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Drop",
+                    "type": "Button",
+                    "id": "d30e54d0-6e29-4d1c-9e26-be808a127399",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a7a1ef64-f94e-4dba-83d2-4a89ff33b7a3",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c0098f87-0a9e-4597-80e5-97180f0e0d27",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "pickup",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7a8a3e09-f938-48ed-bdc9-263ad6ddabfe",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Drop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
