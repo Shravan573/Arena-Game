@@ -78,7 +78,7 @@ public class EnemyPatrol : MonoBehaviour
             Vector3 distancetothewalkpoint = transform.position - walkpoint;
             if (distancetothewalkpoint.magnitude < 1f)
             {
-                Debug.Log("walkpoint not set");
+                //Debug.Log("walkpoint not set");
                 walkpointset = false;
             }
         }
@@ -100,6 +100,7 @@ public class EnemyPatrol : MonoBehaviour
             agent.SetDestination(player.position);
             gameover.SetActive(true);
             Time.timeScale = 0f;
+            Debug.Log("player");
         }else
         {
             gameover.SetActive(false);

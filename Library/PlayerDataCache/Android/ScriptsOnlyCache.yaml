@@ -60,31 +60,31 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1466}
     - Class: 114
-      Script: {instanceID: 1968}
+      Script: {instanceID: 1848}
     - Class: 114
-      Script: {instanceID: 2314}
+      Script: {instanceID: 2194}
     - Class: 114
-      Script: {instanceID: 2708}
+      Script: {instanceID: 2588}
     - Class: 114
-      Script: {instanceID: 2872}
+      Script: {instanceID: 2752}
     - Class: 114
-      Script: {instanceID: 2924}
+      Script: {instanceID: 2804}
     - Class: 114
-      Script: {instanceID: 3072}
+      Script: {instanceID: 2952}
     - Class: 114
-      Script: {instanceID: 3432}
+      Script: {instanceID: 3312}
     - Class: 114
-      Script: {instanceID: 3512}
+      Script: {instanceID: 3392}
     - Class: 114
-      Script: {instanceID: 3744}
+      Script: {instanceID: 3624}
     - Class: 114
-      Script: {instanceID: 4192}
+      Script: {instanceID: 4072}
     - Class: 114
-      Script: {instanceID: 4546}
+      Script: {instanceID: 4426}
     - Class: 114
-      Script: {instanceID: 4710}
+      Script: {instanceID: 4590}
     - Class: 114
-      Script: {instanceID: 5054}
+      Script: {instanceID: 4936}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -137,37 +137,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1466}
     - Class: 114
-      Script: {instanceID: 1608}
+      Script: {instanceID: 1488}
     - Class: 114
-      Script: {instanceID: 1968}
+      Script: {instanceID: 1848}
     - Class: 114
-      Script: {instanceID: 2368}
+      Script: {instanceID: 2248}
     - Class: 114
-      Script: {instanceID: 2708}
+      Script: {instanceID: 2588}
     - Class: 114
-      Script: {instanceID: 2872}
+      Script: {instanceID: 2752}
     - Class: 114
-      Script: {instanceID: 2924}
+      Script: {instanceID: 2804}
     - Class: 114
-      Script: {instanceID: 3072}
+      Script: {instanceID: 2952}
     - Class: 114
-      Script: {instanceID: 3346}
+      Script: {instanceID: 3226}
     - Class: 114
-      Script: {instanceID: 3432}
+      Script: {instanceID: 3312}
     - Class: 114
-      Script: {instanceID: 3744}
+      Script: {instanceID: 3624}
     - Class: 114
-      Script: {instanceID: 4192}
+      Script: {instanceID: 4072}
     - Class: 114
-      Script: {instanceID: 4546}
+      Script: {instanceID: 4426}
     - Class: 114
-      Script: {instanceID: 4746}
+      Script: {instanceID: 4626}
     - Class: 114
-      Script: {instanceID: 4952}
+      Script: {instanceID: 4808}
     - Class: 114
-      Script: {instanceID: 17788}
+      Script: {instanceID: 4834}
     - Class: 114
-      Script: {instanceID: 25268}
+      Script: {instanceID: 17326}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -191,6 +191,8 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     - Class: 238
+      Script: {instanceID: 0}
+    - Class: 258
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -1035,6 +1037,12 @@ ScriptsOnlyBuild:
     className: CinemachineTargetGroup
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Quit
+  - hash:
+      serializedVersion: 2
       Hash: 6980e81ddc615a861309d2d659cc3760
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -1147,14 +1155,8 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachineBlendListCamera
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Quit
   platform: 13
   scenePathNames:
   - Assets/Scenes/Mainmenu.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/github repository/Arena-Game/apk/arena_game_1.apk
+  playerPath: D:/github repository/Arena-Game/apk/arena_game_test.apk

@@ -64,12 +64,12 @@
     <Compile Include="Assets\Scripts\EnemyPatrol.cs" />
     <Compile Include="Assets\Scripts\JoyButton.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
-    <Compile Include="Assets\mainmenu.cs" />
+    <Compile Include="Assets\Scripts\mainmenu.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Scripts\Goal.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
+    <Compile Include="Assets\Scripts\Quit.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
-    <Compile Include="Assets\Quit.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
